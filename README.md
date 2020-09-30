@@ -1,3 +1,0 @@
-# Savage-System
-Systems
-Hardware
